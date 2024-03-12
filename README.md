@@ -1,4 +1,5 @@
-### Hotel Booking Analysis
+  ##         Hotel Booking Analysis
+
 ## Overview
 This project analyzes hotel booking data to gain insights into booking patterns and trends for both resort and city hotels. The dataset used for analysis is sourced from Hotel Booking Demand dataset on Kaggle.
 
